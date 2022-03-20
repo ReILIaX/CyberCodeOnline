@@ -100,7 +100,7 @@
  	 	},
  	 	"terminal": {
  	 	 	"name": {
- 	 	 	 	"trans": "terminal",
+ 	 	 	 	"trans": "Terminal",
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
@@ -1150,7 +1150,7 @@
  	 	},
  	 	"chatExploitProtect": {
  	 	 	"name": {
- 	 	 	 	"trans": "Cybertunnel vpn",
+ 	 	 	 	"trans": "CyberTunnel VPN",
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
@@ -1260,11 +1260,11 @@
  	"action": {
  	 	"autoFarm": {
  	 	 	"name": {
- 	 	 	 	"trans": "Toplama Botu Yerleştir",
+ 	 	 	 	"trans": "Bot Yerleştir",
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "AFK Tecrübe Farmı\r\n        Sizin için zindana bir yapay zeka yerleştirir. Bu, bir AI Çekirdeği kullanır. Genellikle yalnızca bir tur çalışmayı kaldırabilirler.",
+ 	 	 	 	"trans": "AFK Tecrübe Farmı\r\n        Sizin için zindana bir yapay zeka yerleştirir. Bu, bir AI Çekirdeği kullanır. Genellikle sadece bir seyahati yönetirler.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
@@ -1327,7 +1327,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "${zoneName} Bölgesinde Yağma Yapılıyor",
+ 	 	 	 	"trans": "${zoneName} Bölgesinde Yağma yap",
  	 	 	 	"eng": "Scavenge in ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1941,11 +1941,11 @@
  	 	 	 	"eng": "there is currently no items on sale for this category"
  	 	 	},
  	 	 	"buy": {
- 	 	 	 	"trans": "Satın alma",
+ 	 	 	 	"trans": "Satın al",
  	 	 	 	"eng": "Purchase"
  	 	 	},
  	 	 	"remove": {
- 	 	 	 	"trans": "Kaldırmak",
+ 	 	 	 	"trans": "Kaldır",
  	 	 	 	"eng": "Remove"
  	 	 	}
  	 	},
@@ -2389,7 +2389,7 @@
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Bu sayfayı terk edebilir ve daha sonra geri gelsin",
+ 	 	 	 	 	"trans": "Bu sayfadan ayrılıp daha sonra tekrar gelebilirsiniz",
  	 	 	 	 	"eng": "You may leave this page and come back later"
  	 	 	 	}
  	 	 	},
@@ -2433,7 +2433,7 @@
  	 	 	},
  	 	 	"preventDestructionButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Yıkımı önlemek",
+ 	 	 	 	 	"trans": "Yıkımı önle",
  	 	 	 	 	"eng": "Prevent Destruction"
  	 	 	 	}
  	 	 	},
@@ -2538,7 +2538,7 @@
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	},
  	 	 	"depositDesc": {
- 	 	 	 	"trans": "Bitcoin'leri bankaya koyu",
+ 	 	 	 	"trans": "Bitcoin'leri bankaya koy",
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdrawDesc": {
@@ -2657,7 +2657,7 @@
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "yükseltme boşluğu ${index}",
+ 	 	 	 	"trans": "yükseltme yuvası ${index}",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
@@ -3049,7 +3049,7 @@
  	 	 	},
  	 	 	"confirmModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Kullanımı onaylayın?",
+ 	 	 	 	 	"trans": "Kullanımı onayla?",
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -3214,7 +3214,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"playerCount"
  	 	 	 	],
- 	 	 	 	"trans": "${playerCount} Player (lar) Bağlı",
+ 	 	 	 	"trans": "${playerCount} Oyuncu(lar) Bağlı",
  	 	 	 	"eng": "${playerCount} player(s) connected"
  	 	 	}
  	 	},
@@ -3508,14 +3508,14 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Ukrayna, Rusya ve bütün dünya insanları acı çekiyorlar çünkü bir erkeğin hırsı.",
+ 	 	 	 	"trans": "Ukrayna, Rusya ve tüm dünya tek bir adamın hırsı yüzünden acı çekiyor.\\n Savaşı değil, aşkı istismar edin.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
  	 	"rangeSelector": {
  	 	 	"selectMinValue": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Min değerini seçin",
+ 	 	 	 	 	"trans": "Minimum değerini seçin",
  	 	 	 	 	"eng": "Select min value"
  	 	 	 	}
  	 	 	},
@@ -3532,17 +3532,17 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"playerName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${playerName} bloke ettiniz",
+ 	 	 	 	 	"trans": "${playerName} engellediniz",
  	 	 	 	 	"eng": "You have blocked ${playerName}"
  	 	 	 	},
  	 	 	 	"unblock": {
- 	 	 	 	 	"trans": "engeli kaldırmak",
+ 	 	 	 	 	"trans": "engeli kaldır",
  	 	 	 	 	"eng": "Unblock"
  	 	 	 	}
  	 	 	},
  	 	 	"list": {
  	 	 	 	"empty": {
- 	 	 	 	 	"trans": "Engellenen oyuncuların yok.",
+ 	 	 	 	 	"trans": "Engellenen oyuncu yok.",
  	 	 	 	 	"eng": "You have no blocked players."
  	 	 	 	}
  	 	 	},
@@ -3551,7 +3551,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"playerName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${playerName}",
+ 	 	 	 	 	"trans": "${playerName} Engelini kaldır",
  	 	 	 	 	"eng": "Unblock ${playerName}"
  	 	 	 	}
  	 	 	}
@@ -3719,7 +3719,7 @@
  	 	 	"eng": "OK"
  	 	},
  	 	"use": {
- 	 	 	"trans": "kullanmak",
+ 	 	 	"trans": "kullan",
  	 	 	"eng": "use"
  	 	}
  	},
@@ -3916,7 +3916,7 @@
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kazandığınız EXP'yi artırın",
+ 	 	 	 	"trans": "Kazandığınız tecrübeyi artırın",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
@@ -3952,11 +3952,11 @@
  	 	},
  	 	"upgradeNoBreak": {
  	 	 	"name": {
- 	 	 	 	"trans": "Kalibrasyon güvenliği",
+ 	 	 	 	"trans": "Kalibrasyon Güvenliği",
  	 	 	 	"eng": "Calibration Safety"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Kalibrasyon başarısız olur öğeyi yok etmeyecek",
+ 	 	 	 	"trans": "Kalibrasyon başarısız olursa öğeyi yok etmez",
  	 	 	 	"eng": "Calibration fails will not destroy the item"
  	 	 	}
  	 	},
@@ -3968,7 +3968,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"description": {
- 	 	 	 	"trans": "Konteynerlerden ek destansı damla şansı",
+ 	 	 	 	"trans": "Konteynerlerden ek destansı düşme şansı",
  	 	 	 	"eng": "Additional epic drop chance from containers"
  	 	 	}
  	 	},
@@ -3994,7 +3994,7 @@
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "Scavengers Nemesis",
+ 	 	 	 	"trans": "Scavengers İntikamı",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
@@ -4024,7 +4024,7 @@
  	 	},
  	 	"m3V": {
  	 	 	"name": {
- 	 	 	 	"trans": "Makshift",
+ 	 	 	 	"trans": "Makeshift",
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
@@ -4370,7 +4370,7 @@
  	 	 	 	"eng": "Reply"
  	 	 	},
  	 	 	"block": {
- 	 	 	 	"trans": "Engellemek",
+ 	 	 	 	"trans": "Engellem",
  	 	 	 	"eng": "Block"
  	 	 	}
  	 	},
@@ -4628,7 +4628,7 @@
  	 	 	"eng": "Click here to attack the enemy"
  	 	},
  	 	"statusInv": {
- 	 	 	"trans": "Tüm ganimeti almak için 'Tümünü Al'a tıklayın",
+ 	 	 	"trans": "Tüm ganimeti almak için 'Hepsini Al'a tıklayın",
  	 	 	"eng": "Click 'TAKE ALL' to get all the loots"
  	 	},
  	 	"dungeonQuest": {
@@ -4888,7 +4888,7 @@
  	 	 	 	"likerName",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "${likerName}, Atlama için ${amount} saygı gönderdi",
+ 	 	 	"trans": "${likerName} sana ${amount} ve saygılarını gönderdi",
  	 	 	"eng": "${likerName} has send you ${amount} respects for your skip"
  	 	}
  	},
@@ -5188,7 +5188,7 @@
  	 	 	"vars": [
  	 	 	 	"date"
  	 	 	],
- 	 	 	"trans": "İndirim sona erer {0}",
+ 	 	 	"trans": "İndirim sona erer ${date}",
  	 	 	"eng": "Discount ends in ${date}"
  	 	}
  	},
@@ -5216,11 +5216,11 @@
  	 	 	},
  	 	 	"exp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Tecrübe almak",
+ 	 	 	 	 	"trans": "Tecrübe kazan",
  	 	 	 	 	"eng": "Receive exp"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Herhangi bir kaynaktan tecrübe alın",
+ 	 	 	 	 	"trans": "Herhangi bir kaynaktan tecrübe kazan",
  	 	 	 	 	"eng": "Receive exp from any source"
  	 	 	 	}
  	 	 	},
@@ -5519,19 +5519,19 @@
  	"npcGangs": {
  	 	"gang1": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Hayvanlar",
+ 	 	 	 	"trans": "Animals",
  	 	 	 	"eng": "Animals"
  	 	 	}
  	 	},
  	 	"gang2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Voodoo çocuklar",
+ 	 	 	 	"trans": "Voodoo boys",
  	 	 	 	"eng": "Voodoo boys"
  	 	 	}
  	 	},
  	 	"gang3": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Çöpçü",
+ 	 	 	 	"trans": "Scavengers",
  	 	 	 	"eng": "Scavengers"
  	 	 	}
  	 	}
@@ -5546,7 +5546,7 @@
  	 	 	"eng": "Donator"
  	 	},
  	 	"donation3": {
- 	 	 	"trans": "Seçkinler",
+ 	 	 	"trans": "Seçkin",
  	 	 	"eng": "Elite"
  	 	},
  	 	"donation4": {
@@ -5577,7 +5577,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "${enemyName} size saldırdı, ${value} hasar aldı",
+ 	 	 	 	"trans": "${enemyName} size saldırdı, ${value} hasar aldın",
  	 	 	 	"eng": "${enemyName} attacked you, received ${value} damage"
  	 	 	},
  	 	 	"playerAttack": {
@@ -5585,7 +5585,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "{0} $ 'ı ${value} hasar görüyorsunuz",
+ 	 	 	 	"trans": "${enemyName} saldırdın, ${value} hasar verdin",
  	 	 	 	"eng": "You attacked ${enemyName}, dealing ${value} damage"
  	 	 	}
  	 	}
